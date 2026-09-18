@@ -1,5 +1,5 @@
 """
-Builds data/name_pairs.csv: 128 hand-labeled name pairs.
+Builds data/name_pairs.csv: 148 hand-labeled name pairs.
 
 How and why this was constructed
 ---------------------------------
