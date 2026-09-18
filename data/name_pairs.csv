@@ -1,0 +1,149 @@
+pair_id,name_a,name_b,label,category,notes
+1,Suresh Kumar,Suresh Kumar,match,IDENTICAL,exact duplicate
+2,Priya Sharma,priya sharma,match,IDENTICAL,case only
+3,Anjali Verma,Anjali  Verma,match,IDENTICAL,extra whitespace
+4,Rajesh Gupta,"Rajesh, Gupta",match,IDENTICAL,comma noise
+5,Meena Nair,MEENA NAIR,match,IDENTICAL,all caps
+6,Vikram Singh,Vikram Singh.,match,IDENTICAL,trailing period
+7,Deepak Rao,Deepak Rao ,match,IDENTICAL,trailing space
+8,Sunita Joshi,Sunita Joshi,match,IDENTICAL,control duplicate
+9,S. Kumar,Suresh Kumar,match,INITIALS,
+10,R. Sharma,Rakesh Sharma,match,INITIALS,
+11,A. K. Verma,Anil Kumar Verma,match,INITIALS,both given names initialed
+12,P. Reddy,Padma Reddy,match,INITIALS,
+13,M. Iyer,Meera Iyer,match,INITIALS,
+14,V. Singh,Vikas Singh,match,INITIALS,
+15,K. Nair,Kavya Nair,match,INITIALS,
+16,Suresh K.,Suresh Kumar,match,INITIALS,surname initialed instead
+17,D. Patel,Dinesh Patel,match,INITIALS,
+18,N. Rao,Nirmala Rao,match,INITIALS,
+19,J. Mehta,Jayesh Mehta,match,INITIALS,
+20,S.K. Gupta,Sunil Kumar Gupta,match,INITIALS,both middle+given initialed
+21,A. Reddy,Anitha Reddy,match,INITIALS,
+22,R.K. Singh,Ramesh Kumar Singh,match,INITIALS,
+23,Sharma Rakesh,Rakesh Sharma,match,ORDER,
+24,Reddy Padma,Padma Reddy,match,ORDER,
+25,Nair Meera,Meera Nair,match,ORDER,
+26,Verma Anil Kumar,Anil Kumar Verma,match,ORDER,3-token reorder
+27,Singh Vikas,Vikas Singh,match,ORDER,
+28,Iyer Krishnan,Krishnan Iyer,match,ORDER,
+29,Gupta Sunil,Sunil Gupta,match,ORDER,
+30,Rao Nirmala,Nirmala Rao,match,ORDER,
+31,Patel Dinesh,Dinesh Patel,match,ORDER,
+32,Joshi Sunita,Sunita Joshi,match,ORDER,
+33,Mehta Jayesh,Jayesh Mehta,match,ORDER,
+34,Kumar Suresh,Suresh Kumar,match,ORDER,
+35,Mohammed Farooq,Mohammad Farooq,match,TRANSLIT,
+36,Mohammed Farooq,Muhammad Farooq,match,TRANSLIT,
+37,Mohammad Yusuf,Muhammad Yousuf,match,TRANSLIT,
+38,Lakshmi Devi,Laxmi Devi,match,TRANSLIT,
+39,Shiva Kumar,Siva Kumar,match,TRANSLIT,
+40,Krishnan Nair,Krishnann Nair,match,TRANSLIT,doubled consonant
+41,Sunita Kumari,Suneeta Kumari,match,TRANSLIT,
+42,Zakir Hussain,Zakir Hussein,match,TRANSLIT,
+43,Aisha Begum,Ayesha Begum,match,TRANSLIT,
+44,Farhan Sheikh,Farhaan Shaikh,match,TRANSLIT,both tokens vary
+45,Rukmini Devi,Rukmani Devi,match,TRANSLIT,
+46,Chandran Pillai,Chandran Pillay,match,TRANSLIT,
+47,Yasmin Sultana,Yasmeen Sultana,match,TRANSLIT,
+48,Abdul Kareem,Abdul Karim,match,TRANSLIT,
+49,Kondapalli,Kondapally,match,TRANSLIT,"user-contributed: surname spelling variant, same pronunciation"
+50,Vidya Balan,Vidhya Balan,match,TRANSLIT,"corrected: user flagged this as a real spelling variant, not two different people -- originally mislabeled as NEAR_DUP"
+51,Naveen Reddy,Naveen Reddi,match,TRANSLIT,corrected: Reddy/Reddi are both legitimate spellings of the same surname -- originally mislabeled as NEAR_DUP
+52,Anil Kumar Sharma,Anil Sharma,match,MIDDLE,middle name dropped
+53,Ramesh S/O Krishna Murthy,Ramesh Krishna Murthy,match,MIDDLE,S/O particle only
+54,Priya Reddy,Priya Venkat Reddy,match,MIDDLE,husband's first name inserted post-marriage
+55,Kavita W/O Suresh Patel,Kavita Suresh Patel,match,MIDDLE,W/O particle only
+56,Neha D/O Ramesh Gupta,Neha Gupta,match,MIDDLE,D/O + father's name dropped
+57,Anita Devi,Anita Kumari Devi,match,MIDDLE,middle name added
+58,Vijay Kumar Yadav,Vijay Yadav,match,MIDDLE,middle name dropped
+59,Ramesh Chandra Pandey,Ramesh Pandey,match,MIDDLE,middle name dropped
+60,Sunil S/O Late Prakash Joshi,Sunil Prakash Joshi,match,MIDDLE,S/O + Late both stripped
+61,Meera Ben Patel,Meera Patel,match,MIDDLE,Gujarati 'Ben' suffix
+62,Rajesh Bhai Shah,Rajesh Shah,match,MIDDLE,Gujarati 'Bhai' suffix
+63,Kamala W/O Late Ramaiah,Kamala Ramaiah,match,MIDDLE,W/O + Late both stripped
+64,Geeta D/O Mohan Kumari,Geeta Kumari,match,MIDDLE,D/O + father's name dropped
+65,Suman Lata Mishra,Suman Mishra,match,MIDDLE,middle name dropped
+66,Shri Ramesh Kumar,Ramesh Kumar,match,HONORIFIC,
+67,Smt. Sunita Devi,Sunita Devi,match,HONORIFIC,
+68,Kumari Anjali Sharma,Anjali Sharma,match,HONORIFIC,
+69,Dr. Vikram Singh,Vikram Singh,match,HONORIFIC,
+70,Mr. Suresh Gupta,Suresh Gupta,match,HONORIFIC,
+71,Mrs. Padma Reddy,Padma Reddy,match,HONORIFIC,
+72,Prof. Anil Verma,Anil Verma,match,HONORIFIC,
+73,Late Shri Mohan Lal,Mohan Lal,match,HONORIFIC,two honorifics stacked
+74,Vikas Singh Jr.,Vikas Singh,match,HONORIFIC,suffix
+75,Ramesh Iyer Sr.,Ramesh Iyer,match,HONORIFIC,suffix
+76,Sushma Reddy,Sushama Reddy,match,TYPO,
+77,Abhishek Mishra,Abheshek Mishra,match,TYPO,
+78,Rajendra Prasad,Rajender Prasad,match,TYPO,
+79,Kiran Bedi,Kirn Bedi,match,TYPO,dropped vowel
+80,Deepika Kaur,Deepica Kaur,match,TYPO,
+81,Manoj Tiwari,Manoj Tiwary,match,TYPO,
+82,Vishal Chaudhary,Vishal Choudhary,match,TYPO,
+83,Nikhil Bansal,Nikhal Bansal,match,TYPO,
+84,Pooja Malhotra,Puja Malhotra,match,TYPO,
+85,Harish Chandra,Harish Chander,match,TYPO,
+86,Farhan Akhtar,Farhan Akthar,match,TYPO,"corrected: letter transposition, not a different person -- originally mislabeled as NEAR_DUP"
+87,Suresh Kumar,Anita Desai,non_match,EASY_NEG,
+88,Ramesh Gupta,Farhan Sheikh,non_match,EASY_NEG,
+89,Priya Sharma,Vikas Yadav,non_match,EASY_NEG,
+90,Mohammed Ali,John Fernandes,non_match,EASY_NEG,
+91,Lakshmi Devi,Rajesh Iyer,non_match,EASY_NEG,
+92,Kavya Nair,Sunil Bhatt,non_match,EASY_NEG,
+93,Ananya Roy,Deepak Chopra,non_match,EASY_NEG,
+94,Rekha Menon,Arvind Pillai,non_match,EASY_NEG,
+95,Sonal Shah,Kunal Mehta,non_match,EASY_NEG,
+96,Neeraj Pandey,Shalini Kapoor,non_match,EASY_NEG,
+97,Rohan S/O Manoj Sharma,Rohit S/O Manoj Sharma,non_match,SIBLING,brothers
+98,Ananya D/O Ravi Kumar,Aparna D/O Ravi Kumar,non_match,SIBLING,sisters
+99,Vikram Malhotra,Vikas Malhotra,non_match,SIBLING,"brothers, no father's name given"
+100,Priyanka Reddy,Priyamvada Reddy,non_match,SIBLING,"sisters, near-identical given name"
+101,Suresh Kumar Patel,Umesh Kumar Patel,non_match,SIBLING,shared middle+surname
+102,Kiran S/O Ramesh Nair,Kishore S/O Ramesh Nair,non_match,SIBLING,brothers
+103,Deepa W/O Manoj Gupta,Deepika W/O Manoj Gupta,non_match,SIBLING,"two wives/relatives, same husband's name"
+104,Anil Kumar Yadav,Sunil Kumar Yadav,non_match,SIBLING,brothers
+105,Neha Sharma,Nisha Sharma,non_match,SIBLING,sisters
+106,Arjun Reddy,Arun Reddy,non_match,SIBLING,brothers
+107,Rajesh Kumar,Ramesh Kumar,non_match,COMMON_SURNAME,
+108,Suman Sharma,Seema Sharma,non_match,COMMON_SURNAME,
+109,Vinod Gupta,Vinay Gupta,non_match,COMMON_SURNAME,
+110,Kavita Reddy,Kavya Reddy,non_match,COMMON_SURNAME,
+111,Manish Patel,Manoj Patel,non_match,COMMON_SURNAME,
+112,Asha Nair,Usha Nair,non_match,COMMON_SURNAME,
+113,Sandeep Singh,Sandesh Singh,non_match,COMMON_SURNAME,
+114,Rohit Verma,Rohan Verma,non_match,COMMON_SURNAME,
+115,Geeta Joshi,Geeta Mishra,non_match,COMMON_SURNAME,"same given name, different surname"
+116,Arvind Kumar,Anand Kumar,non_match,COMMON_SURNAME,
+117,Amit Singh,Sumit Singh,non_match,NEAR_DUP,
+118,Kavita Rao,Kavya Rao,non_match,NEAR_DUP,
+119,Sana Khan,Saina Khan,non_match,NEAR_DUP,
+120,Rahul Dev,Rahul Dave,non_match,NEAR_DUP,"different surname, near-identical spelling"
+121,Meenal Joshi,Meena Joshi,non_match,NEAR_DUP,"Meenal and Meena are distinct registered given names, not spelling variants of each other"
+122,Aditi Rao,Aditya Rao,non_match,NEAR_DUP,"different given name, high char overlap"
+123,Ishaan Kapoor,Ishwar Kapoor,non_match,NEAR_DUP,
+124,Karan Oberoi,Kiran Oberoi,non_match,NEAR_DUP,Karan and Kiran are distinct established given names
+125,Sonal Verma,Sonam Verma,non_match,NEAR_DUP,Sonal and Sonam are distinct established given names
+126,Nikita Malhotra,Nikhat Malhotra,non_match,NEAR_DUP,Nikita and Nikhat are distinct established given names
+127,Md. Rafiqul Islam,Mohammed Rafiqul Islam,match,PREFIX_ABBREV,
+128,Mohd Aslam Khan,Mohammed Aslam Khan,match,PREFIX_ABBREV,
+129,Md Imran Ansari,Muhammad Imran Ansari,match,PREFIX_ABBREV,abbrev + translit variant together
+130,Mohd. Shakeel Ahmed,Mohammad Shakeel Ahmed,match,PREFIX_ABBREV,
+131,Md. Aziz Rahman,Md. Aziz Rehman,match,PREFIX_ABBREV,"both abbreviated, minor spelling drift"
+132,Md Farhan Alam,Rehan Alam,non_match,PREFIX_ABBREV,different given name behind the abbreviation -- hard negative
+133,Seethamahalakshmi Devi,SEETHAMAHALAKSHM,match,TRUNCATED,Aadhaar-style field truncation mid-word
+134,Venkata Subramanyam Naidu,VENKATA SUBRAMANYAM N,match,TRUNCATED,truncated at last name
+135,Chandrasekhara Rao Yerramsetti,CHANDRASEKHARA RAO YER,match,TRUNCATED,long surname cut off
+136,Ramalingeswara Rao,RAMALINGESWARA R,match,TRUNCATED,
+137,Suresh Kumar,SURES,non_match,TRUNCATED,"truncated too aggressively to be trustworthy -- too little signal left, hard negative by design"
+138,Seethamahalakshmi,Seeta maha laxmi,match,SEGMENTATION,"user-contributed: mother's name, 1 word vs 3 words + spelling variant"
+139,Seethamahalakshmi,Seetha mahalaxmi,match,SEGMENTATION,"user-contributed: mother's name, 1 word vs 2 words + spelling variant"
+140,Seeta maha laxmi,Seetha mahalaxmi,match,SEGMENTATION,"user-contributed: mother's name, 3 words vs 2 words"
+141,Srinivasa rao,Srinuvasarao,match,SEGMENTATION,user-contributed: 2 words vs 1 fused word + spelling variant
+142,Srinuvasarao,Srinuvas Rao,match,SEGMENTATION,user-contributed: 1 fused word vs 2 words
+143,Shri Ramesh Kumar,Shri Suresh Kumar,non_match,HONORIFIC_NEG,
+144,Smt. Sunita Devi,Smt. Anita Devi,non_match,HONORIFIC_NEG,
+145,Dr. Vikram Singh,Dr. Vikram Chauhan,non_match,HONORIFIC_NEG,"same given name, different surname"
+146,Mrs. Padma Reddy,Mrs. Padma Nair,non_match,HONORIFIC_NEG,"same given name, different surname"
+147,Mr. Suresh Gupta,Mr. Suresh Bhatt,non_match,HONORIFIC_NEG,"same given name, different surname"
+148,Kumari Anjali Sharma,Kumari Anjali Verma,non_match,HONORIFIC_NEG,"same given name, different surname"
