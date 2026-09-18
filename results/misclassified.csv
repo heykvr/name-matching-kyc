@@ -1,0 +1,164 @@
+matcher,pair_id,name_a,name_b,label,category,predicted,score
+exact_normalized,9,S. Kumar,Suresh Kumar,match,INITIALS,non_match,0.0
+exact_normalized,10,R. Sharma,Rakesh Sharma,match,INITIALS,non_match,0.0
+exact_normalized,11,A. K. Verma,Anil Kumar Verma,match,INITIALS,non_match,0.0
+exact_normalized,12,P. Reddy,Padma Reddy,match,INITIALS,non_match,0.0
+exact_normalized,13,M. Iyer,Meera Iyer,match,INITIALS,non_match,0.0
+exact_normalized,14,V. Singh,Vikas Singh,match,INITIALS,non_match,0.0
+exact_normalized,15,K. Nair,Kavya Nair,match,INITIALS,non_match,0.0
+exact_normalized,16,Suresh K.,Suresh Kumar,match,INITIALS,non_match,0.0
+exact_normalized,17,D. Patel,Dinesh Patel,match,INITIALS,non_match,0.0
+exact_normalized,18,N. Rao,Nirmala Rao,match,INITIALS,non_match,0.0
+exact_normalized,19,J. Mehta,Jayesh Mehta,match,INITIALS,non_match,0.0
+exact_normalized,20,S.K. Gupta,Sunil Kumar Gupta,match,INITIALS,non_match,0.0
+exact_normalized,21,A. Reddy,Anitha Reddy,match,INITIALS,non_match,0.0
+exact_normalized,22,R.K. Singh,Ramesh Kumar Singh,match,INITIALS,non_match,0.0
+exact_normalized,35,Mohammed Farooq,Mohammad Farooq,match,TRANSLIT,non_match,0.0
+exact_normalized,36,Mohammed Farooq,Muhammad Farooq,match,TRANSLIT,non_match,0.0
+exact_normalized,37,Mohammad Yusuf,Muhammad Yousuf,match,TRANSLIT,non_match,0.0
+exact_normalized,38,Lakshmi Devi,Laxmi Devi,match,TRANSLIT,non_match,0.0
+exact_normalized,39,Shiva Kumar,Siva Kumar,match,TRANSLIT,non_match,0.0
+exact_normalized,40,Krishnan Nair,Krishnann Nair,match,TRANSLIT,non_match,0.0
+exact_normalized,41,Sunita Kumari,Suneeta Kumari,match,TRANSLIT,non_match,0.0
+exact_normalized,42,Zakir Hussain,Zakir Hussein,match,TRANSLIT,non_match,0.0
+exact_normalized,43,Aisha Begum,Ayesha Begum,match,TRANSLIT,non_match,0.0
+exact_normalized,44,Farhan Sheikh,Farhaan Shaikh,match,TRANSLIT,non_match,0.0
+exact_normalized,45,Rukmini Devi,Rukmani Devi,match,TRANSLIT,non_match,0.0
+exact_normalized,46,Chandran Pillai,Chandran Pillay,match,TRANSLIT,non_match,0.0
+exact_normalized,47,Yasmin Sultana,Yasmeen Sultana,match,TRANSLIT,non_match,0.0
+exact_normalized,48,Abdul Kareem,Abdul Karim,match,TRANSLIT,non_match,0.0
+exact_normalized,49,Kondapalli,Kondapally,match,TRANSLIT,non_match,0.0
+exact_normalized,50,Vidya Balan,Vidhya Balan,match,TRANSLIT,non_match,0.0
+exact_normalized,51,Naveen Reddy,Naveen Reddi,match,TRANSLIT,non_match,0.0
+exact_normalized,52,Anil Kumar Sharma,Anil Sharma,match,MIDDLE,non_match,0.0
+exact_normalized,54,Priya Reddy,Priya Venkat Reddy,match,MIDDLE,non_match,0.0
+exact_normalized,56,Neha D/O Ramesh Gupta,Neha Gupta,match,MIDDLE,non_match,0.0
+exact_normalized,58,Vijay Kumar Yadav,Vijay Yadav,match,MIDDLE,non_match,0.0
+exact_normalized,59,Ramesh Chandra Pandey,Ramesh Pandey,match,MIDDLE,non_match,0.0
+exact_normalized,64,Geeta D/O Mohan Kumari,Geeta Kumari,match,MIDDLE,non_match,0.0
+exact_normalized,65,Suman Lata Mishra,Suman Mishra,match,MIDDLE,non_match,0.0
+exact_normalized,76,Sushma Reddy,Sushama Reddy,match,TYPO,non_match,0.0
+exact_normalized,77,Abhishek Mishra,Abheshek Mishra,match,TYPO,non_match,0.0
+exact_normalized,78,Rajendra Prasad,Rajender Prasad,match,TYPO,non_match,0.0
+exact_normalized,79,Kiran Bedi,Kirn Bedi,match,TYPO,non_match,0.0
+exact_normalized,80,Deepika Kaur,Deepica Kaur,match,TYPO,non_match,0.0
+exact_normalized,81,Manoj Tiwari,Manoj Tiwary,match,TYPO,non_match,0.0
+exact_normalized,82,Vishal Chaudhary,Vishal Choudhary,match,TYPO,non_match,0.0
+exact_normalized,83,Nikhil Bansal,Nikhal Bansal,match,TYPO,non_match,0.0
+exact_normalized,84,Pooja Malhotra,Puja Malhotra,match,TYPO,non_match,0.0
+exact_normalized,85,Harish Chandra,Harish Chander,match,TYPO,non_match,0.0
+exact_normalized,86,Farhan Akhtar,Farhan Akthar,match,TYPO,non_match,0.0
+exact_normalized,129,Md Imran Ansari,Muhammad Imran Ansari,match,PREFIX_ABBREV,non_match,0.0
+exact_normalized,130,Mohd. Shakeel Ahmed,Mohammad Shakeel Ahmed,match,PREFIX_ABBREV,non_match,0.0
+exact_normalized,131,Md. Aziz Rahman,Md. Aziz Rehman,match,PREFIX_ABBREV,non_match,0.0
+exact_normalized,133,Seethamahalakshmi Devi,SEETHAMAHALAKSHM,match,TRUNCATED,non_match,0.0
+exact_normalized,134,Venkata Subramanyam Naidu,VENKATA SUBRAMANYAM N,match,TRUNCATED,non_match,0.0
+exact_normalized,135,Chandrasekhara Rao Yerramsetti,CHANDRASEKHARA RAO YER,match,TRUNCATED,non_match,0.0
+exact_normalized,136,Ramalingeswara Rao,RAMALINGESWARA R,match,TRUNCATED,non_match,0.0
+exact_normalized,138,Seethamahalakshmi,Seeta maha laxmi,match,SEGMENTATION,non_match,0.0
+exact_normalized,139,Seethamahalakshmi,Seetha mahalaxmi,match,SEGMENTATION,non_match,0.0
+exact_normalized,140,Seeta maha laxmi,Seetha mahalaxmi,match,SEGMENTATION,non_match,0.0
+exact_normalized,141,Srinivasa rao,Srinuvasarao,match,SEGMENTATION,non_match,0.0
+exact_normalized,142,Srinuvasarao,Srinuvas Rao,match,SEGMENTATION,non_match,0.0
+token_fuzzy,9,S. Kumar,Suresh Kumar,match,INITIALS,non_match,0.737
+token_fuzzy,10,R. Sharma,Rakesh Sharma,match,INITIALS,non_match,0.762
+token_fuzzy,11,A. K. Verma,Anil Kumar Verma,match,INITIALS,non_match,0.72
+token_fuzzy,12,P. Reddy,Padma Reddy,match,INITIALS,non_match,0.778
+token_fuzzy,13,M. Iyer,Meera Iyer,match,INITIALS,non_match,0.75
+token_fuzzy,14,V. Singh,Vikas Singh,match,INITIALS,non_match,0.778
+token_fuzzy,15,K. Nair,Kavya Nair,match,INITIALS,non_match,0.75
+token_fuzzy,16,Suresh K.,Suresh Kumar,match,INITIALS,non_match,0.8
+token_fuzzy,17,D. Patel,Dinesh Patel,match,INITIALS,non_match,0.737
+token_fuzzy,18,N. Rao,Nirmala Rao,match,INITIALS,non_match,0.625
+token_fuzzy,19,J. Mehta,Jayesh Mehta,match,INITIALS,non_match,0.737
+token_fuzzy,20,S.K. Gupta,Sunil Kumar Gupta,match,INITIALS,non_match,0.692
+token_fuzzy,21,A. Reddy,Anitha Reddy,match,INITIALS,non_match,0.737
+token_fuzzy,22,R.K. Singh,Ramesh Kumar Singh,match,INITIALS,non_match,0.667
+token_fuzzy,38,Lakshmi Devi,Laxmi Devi,match,TRANSLIT,non_match,0.818
+token_fuzzy,41,Sunita Kumari,Suneeta Kumari,match,TRANSLIT,non_match,0.769
+token_fuzzy,52,Anil Kumar Sharma,Anil Sharma,match,MIDDLE,non_match,0.786
+token_fuzzy,54,Priya Reddy,Priya Venkat Reddy,match,MIDDLE,non_match,0.759
+token_fuzzy,56,Neha D/O Ramesh Gupta,Neha Gupta,match,MIDDLE,non_match,0.741
+token_fuzzy,58,Vijay Kumar Yadav,Vijay Yadav,match,MIDDLE,non_match,0.786
+token_fuzzy,59,Ramesh Chandra Pandey,Ramesh Pandey,match,MIDDLE,non_match,0.765
+token_fuzzy,64,Geeta D/O Mohan Kumari,Geeta Kumari,match,MIDDLE,non_match,0.625
+token_fuzzy,97,Rohan S/O Manoj Sharma,Rohit S/O Manoj Sharma,non_match,SIBLING,match,0.889
+token_fuzzy,98,Ananya D/O Ravi Kumar,Aparna D/O Ravi Kumar,non_match,SIBLING,match,0.882
+token_fuzzy,99,Vikram Malhotra,Vikas Malhotra,non_match,SIBLING,match,0.897
+token_fuzzy,101,Suresh Kumar Patel,Umesh Kumar Patel,non_match,SIBLING,match,0.914
+token_fuzzy,102,Kiran S/O Ramesh Nair,Kishore S/O Ramesh Nair,non_match,SIBLING,match,0.833
+token_fuzzy,103,Deepa W/O Manoj Gupta,Deepika W/O Manoj Gupta,non_match,SIBLING,match,0.944
+token_fuzzy,105,Neha Sharma,Nisha Sharma,non_match,SIBLING,match,0.87
+token_fuzzy,106,Arjun Reddy,Arun Reddy,non_match,SIBLING,match,0.952
+token_fuzzy,107,Rajesh Kumar,Ramesh Kumar,non_match,COMMON_SURNAME,match,0.917
+token_fuzzy,110,Kavita Reddy,Kavya Reddy,non_match,COMMON_SURNAME,match,0.87
+token_fuzzy,113,Sandeep Singh,Sandesh Singh,non_match,COMMON_SURNAME,match,0.846
+token_fuzzy,118,Kavita Rao,Kavya Rao,non_match,NEAR_DUP,match,0.842
+token_fuzzy,119,Sana Khan,Saina Khan,non_match,NEAR_DUP,match,0.947
+token_fuzzy,120,Rahul Dev,Rahul Dave,non_match,NEAR_DUP,match,0.842
+token_fuzzy,121,Meenal Joshi,Meena Joshi,non_match,NEAR_DUP,match,0.957
+token_fuzzy,122,Aditi Rao,Aditya Rao,non_match,NEAR_DUP,match,0.842
+token_fuzzy,123,Ishaan Kapoor,Ishwar Kapoor,non_match,NEAR_DUP,match,0.846
+token_fuzzy,124,Karan Oberoi,Kiran Oberoi,non_match,NEAR_DUP,match,0.917
+token_fuzzy,125,Sonal Verma,Sonam Verma,non_match,NEAR_DUP,match,0.909
+token_fuzzy,126,Nikita Malhotra,Nikhat Malhotra,non_match,NEAR_DUP,match,0.867
+token_fuzzy,138,Seethamahalakshmi,Seeta maha laxmi,match,SEGMENTATION,non_match,0.364
+token_fuzzy,139,Seethamahalakshmi,Seetha mahalaxmi,match,SEGMENTATION,non_match,0.485
+token_fuzzy,140,Seeta maha laxmi,Seetha mahalaxmi,match,SEGMENTATION,non_match,0.688
+token_fuzzy,141,Srinivasa rao,Srinuvasarao,match,SEGMENTATION,non_match,0.64
+token_fuzzy,142,Srinuvasarao,Srinuvas Rao,match,SEGMENTATION,non_match,0.667
+token_fuzzy,143,Shri Ramesh Kumar,Shri Suresh Kumar,non_match,HONORIFIC_NEG,match,0.833
+phonetic,9,S. Kumar,Suresh Kumar,match,INITIALS,non_match,0.5
+phonetic,10,R. Sharma,Rakesh Sharma,match,INITIALS,non_match,0.5
+phonetic,11,A. K. Verma,Anil Kumar Verma,match,INITIALS,non_match,0.333
+phonetic,12,P. Reddy,Padma Reddy,match,INITIALS,non_match,0.5
+phonetic,13,M. Iyer,Meera Iyer,match,INITIALS,non_match,0.5
+phonetic,14,V. Singh,Vikas Singh,match,INITIALS,non_match,0.5
+phonetic,15,K. Nair,Kavya Nair,match,INITIALS,non_match,0.5
+phonetic,16,Suresh K.,Suresh Kumar,match,INITIALS,non_match,0.5
+phonetic,17,D. Patel,Dinesh Patel,match,INITIALS,non_match,0.5
+phonetic,18,N. Rao,Nirmala Rao,match,INITIALS,non_match,0.5
+phonetic,19,J. Mehta,Jayesh Mehta,match,INITIALS,non_match,0.5
+phonetic,20,S.K. Gupta,Sunil Kumar Gupta,match,INITIALS,non_match,0.333
+phonetic,21,A. Reddy,Anitha Reddy,match,INITIALS,non_match,0.5
+phonetic,22,R.K. Singh,Ramesh Kumar Singh,match,INITIALS,non_match,0.333
+phonetic,38,Lakshmi Devi,Laxmi Devi,match,TRANSLIT,non_match,0.5
+phonetic,43,Aisha Begum,Ayesha Begum,match,TRANSLIT,non_match,0.5
+phonetic,46,Chandran Pillai,Chandran Pillay,match,TRANSLIT,non_match,0.5
+phonetic,49,Kondapalli,Kondapally,match,TRANSLIT,non_match,0.0
+phonetic,51,Naveen Reddy,Naveen Reddi,match,TRANSLIT,non_match,0.5
+phonetic,52,Anil Kumar Sharma,Anil Sharma,match,MIDDLE,non_match,0.667
+phonetic,54,Priya Reddy,Priya Venkat Reddy,match,MIDDLE,non_match,0.667
+phonetic,56,Neha D/O Ramesh Gupta,Neha Gupta,match,MIDDLE,non_match,0.667
+phonetic,58,Vijay Kumar Yadav,Vijay Yadav,match,MIDDLE,non_match,0.667
+phonetic,59,Ramesh Chandra Pandey,Ramesh Pandey,match,MIDDLE,non_match,0.667
+phonetic,64,Geeta D/O Mohan Kumari,Geeta Kumari,match,MIDDLE,non_match,0.5
+phonetic,65,Suman Lata Mishra,Suman Mishra,match,MIDDLE,non_match,0.667
+phonetic,76,Sushma Reddy,Sushama Reddy,match,TYPO,non_match,0.5
+phonetic,78,Rajendra Prasad,Rajender Prasad,match,TYPO,non_match,0.5
+phonetic,79,Kiran Bedi,Kirn Bedi,match,TYPO,non_match,0.5
+phonetic,81,Manoj Tiwari,Manoj Tiwary,match,TYPO,non_match,0.5
+phonetic,85,Harish Chandra,Harish Chander,match,TYPO,non_match,0.5
+phonetic,86,Farhan Akhtar,Farhan Akthar,match,TYPO,non_match,0.5
+phonetic,119,Sana Khan,Saina Khan,non_match,NEAR_DUP,match,1.0
+phonetic,124,Karan Oberoi,Kiran Oberoi,non_match,NEAR_DUP,match,1.0
+phonetic,133,Seethamahalakshmi Devi,SEETHAMAHALAKSHM,match,TRUNCATED,non_match,0.5
+phonetic,134,Venkata Subramanyam Naidu,VENKATA SUBRAMANYAM N,match,TRUNCATED,non_match,0.667
+phonetic,135,Chandrasekhara Rao Yerramsetti,CHANDRASEKHARA RAO YER,match,TRUNCATED,non_match,0.667
+phonetic,136,Ramalingeswara Rao,RAMALINGESWARA R,match,TRUNCATED,non_match,0.5
+phonetic,138,Seethamahalakshmi,Seeta maha laxmi,match,SEGMENTATION,non_match,0.0
+phonetic,139,Seethamahalakshmi,Seetha mahalaxmi,match,SEGMENTATION,non_match,0.0
+phonetic,140,Seeta maha laxmi,Seetha mahalaxmi,match,SEGMENTATION,non_match,0.333
+phonetic,141,Srinivasa rao,Srinuvasarao,match,SEGMENTATION,non_match,0.0
+phonetic,142,Srinuvasarao,Srinuvas Rao,match,SEGMENTATION,non_match,0.0
+hybrid_rule,38,Lakshmi Devi,Laxmi Devi,match,TRANSLIT,non_match,0.5
+hybrid_rule,43,Aisha Begum,Ayesha Begum,match,TRANSLIT,non_match,0.5
+hybrid_rule,64,Geeta D/O Mohan Kumari,Geeta Kumari,match,MIDDLE,non_match,0.667
+hybrid_rule,103,Deepa W/O Manoj Gupta,Deepika W/O Manoj Gupta,non_match,SIBLING,match,0.944
+hybrid_rule,106,Arjun Reddy,Arun Reddy,non_match,SIBLING,match,0.944
+hybrid_rule,107,Rajesh Kumar,Ramesh Kumar,non_match,COMMON_SURNAME,match,0.917
+hybrid_rule,119,Sana Khan,Saina Khan,non_match,NEAR_DUP,match,0.925
+hybrid_rule,121,Meenal Joshi,Meena Joshi,non_match,NEAR_DUP,match,0.955
+hybrid_rule,124,Karan Oberoi,Kiran Oberoi,non_match,NEAR_DUP,match,0.925
+hybrid_rule,125,Sonal Verma,Sonam Verma,non_match,NEAR_DUP,match,0.9
+hybrid_rule,135,Chandrasekhara Rao Yerramsetti,CHANDRASEKHARA RAO YER,match,TRUNCATED,non_match,0.667
